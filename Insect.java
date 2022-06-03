@@ -18,9 +18,9 @@
 
 /**
  * The abstract superclass for all types of Insects. Note that Insect does not
- * implement MakesSound.makeSound() because it does not have to since Insect
- * is abstract. Abstract classes do not have to implement any of the methods of
- * the class.
+ * implement MakesSound.makeSound() because it does not have to since Insect is
+ * abstract. Abstract classes do not have to implement any of the methods of the
+ * class.
  */
-public abstract class Insect implements MakesSound { 
-} 
+public abstract class Insect implements MakesSound {
+}
